@@ -27,3 +27,6 @@ A static array is an implementation of an array that allocates a fixed amount of
 
 A dynamic array is an implementation of an array that preemptively allocates double the amount of memory needed to store the
 array's values. Appending values to the array is a constant-time operation until the allocated memory is filled up, at which point the array is copied and double the memory is once again allocated for it. This implementation leads to an amortized constant-time insertion at end operation.
+
+- [Recursion](/Recursion)
+  In computer science, recursion is a method of solving a computational problem where the solution depends on solutions to smaller instances of the same problem. Such problems can generally be solved by iteration, but this needs to identify and index the smaller instances at programming time.
