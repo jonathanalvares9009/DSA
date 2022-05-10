@@ -6,3 +6,4 @@
 2. [Contains Key](./ContainsKey.md) - 07/05/2022
 3. [Valid Anagram](./ValidAnagram.md) - 09/05/2022
 4. [Valid Palindrome](./ValidPalindrome.md) - 09/05/2022
+5. [Best Time to Buy and Sell Stock](./BestTimeToBuyAndSellStock.md) - 10/05/2022
