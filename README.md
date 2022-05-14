@@ -10,3 +10,4 @@
 6. [Valid Parentheses](./ValidParentheses.md) - 11/05/2022
 7. [Min Stack Implementation](./MinStack.md) - 12/05/2022
 8. [Binary Search](./BinarySearch.md) - 13/05/2022
+9. [Implement a HashSet](./HashSet.md) - 14/05/2022
