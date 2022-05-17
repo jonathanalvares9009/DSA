@@ -12,3 +12,4 @@
 8. [Binary Search](./BinarySearch.md) - 13/05/2022
 9. [Implement a HashSet](./HashSet.md) - 14/05/2022
 10. [Reverse a Linked List](./ReverseLinkedList.md) - 16/05/2022
+11. [Merge two sorted lists](./MergeTwoSortedLists.md) - 17/05/2022
